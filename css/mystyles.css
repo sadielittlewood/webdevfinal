@@ -1,0 +1,19 @@
+.homebg {
+    background-color: whitesmoke;
+}
+.text {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(45, 45, 45);
+}
+li {
+    font-size: 14px;
+    font-style: italic;
+}
+.head {
+    font-weight: bold;
+    color: black;
+    font-style: normal;
+}
+.underline {
+    text-decoration: underline;
+}
